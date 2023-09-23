@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-09-23T03:24:38.145432Z",
+      "format": null,
+      "last_modified": "2023-09-23T03:10:34.546570Z",
+      "mimetype": null,
+      "name": "index.ipynb",
+      "path": "./index.ipynb",
+      "size": 2782,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-23T03:24:38.145432Z",
+      "format": null,
+      "last_modified": "2023-09-23T03:10:39.398608Z",
+      "mimetype": null,
+      "name": "app.ipynb",
+      "path": "./app.ipynb",
+      "size": 4831,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-23T03:24:38.145432Z",
+      "format": null,
+      "last_modified": "2023-09-23T02:59:34.989563Z",
+      "mimetype": "text/plain",
+      "name": "requirements.txt",
+      "path": "./requirements.txt",
+      "size": 63,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-23T03:24:38.145432Z",
+      "format": null,
+      "last_modified": "2023-09-23T02:59:48.617660Z",
+      "mimetype": null,
+      "name": "environment.yml",
+      "path": "./environment.yml",
+      "size": 302,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-23T03:24:38.145432Z",
+      "format": null,
+      "last_modified": "2023-09-23T03:11:02.206790Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "./README.md",
+      "size": 19,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-23T03:24:38.145432Z",
+      "format": null,
+      "last_modified": "2023-09-23T03:21:10.839728Z",
+      "mimetype": "text/plain",
+      "name": "LICENSE.txt",
+      "path": "./LICENSE.txt",
+      "size": 1489,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2023-09-23T03:24:38.145432Z",
+  "format": "json",
+  "last_modified": "2023-09-23T03:24:38.145432Z",
+  "mimetype": null,
+  "name": ".",
+  "path": ".",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,13 @@
+{
+    "LiteBuildConfig": {
+        "output_dir": "docs",
+        "contents": [
+            "LICENSE.txt",
+            "README.md",
+            "index.ipynb",
+            "app.ipynb",
+            "requirements.txt",
+            "environment.yml"
+        ]
+    }
+}

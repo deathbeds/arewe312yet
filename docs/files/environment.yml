@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+  - conda-forge/label/jupyterlite_core_alpha
+  - conda-forge/label/jupyterlite_pyodide_kernel_alpha
+  - nodefaults
+dependencies:
+  - importnb
+  - ipyforcegraph
+  - jupyterlab >=3.0,<4.0
+  - jupyterlab-deck
+  - jupyterlite-pyodide-kernel
+  - notebook
+  - ipydatagrid
+  - ipylab
