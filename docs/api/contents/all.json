@@ -14,13 +14,13 @@
     },
     {
       "content": null,
-      "created": "2023-09-24T22:48:42.339466Z",
+      "created": "2023-09-25T02:05:30.850013Z",
       "format": null,
-      "last_modified": "2023-09-24T22:47:32.402869Z",
+      "last_modified": "2023-09-25T02:05:21.925631Z",
       "mimetype": null,
       "name": "app.ipynb",
       "path": "./app.ipynb",
-      "size": 7777,
+      "size": 8227,
       "type": "notebook",
       "writable": true
     },
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2023-09-24T22:48:42.339466Z",
+  "created": "2023-09-25T02:05:30.850013Z",
   "format": "json",
-  "last_modified": "2023-09-24T22:48:42.339466Z",
+  "last_modified": "2023-09-25T02:05:30.850013Z",
   "mimetype": null,
   "name": ".",
   "path": ".",
